@@ -1,5 +1,5 @@
 # Flappy-bird-python
-A basic Flappy Bird game made in Python
+Базовый Flappy Bird игра написана на Python
 
 
 
